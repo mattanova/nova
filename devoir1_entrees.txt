@@ -1,0 +1,7 @@
+Lines	Flow	Unit Cost
+SF LA 	3 	700
+SF NY 	1 	1600
+LA NY 	6 	1500 
+LA DAL 	2 	1100
+NY PHI 	4 	500
+PHI DAL 5 	1300
